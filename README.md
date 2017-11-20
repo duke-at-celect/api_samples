@@ -1,5 +1,5 @@
 # api_samples
-Sample Python code for use with the Celect REST API.
+The purpose of this repository is share sample code with Celect customers to help enable them with using the Celect Fulfillment API.
 
 ## Prerequisites
 _Language_
