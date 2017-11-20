@@ -24,14 +24,14 @@ This script should be used to:
 ### Running the script
 #### Get Current State
 ``` 
-This command will output a new .CSV file to the working directory
+# This command will output a new .CSV file to the working directory
 
 $ python3 capacity_state_prod.py --state get --region us
 ```
 
 #### Set Current State
 ``` 
-This command will consume the file created from the --state get command
+# This command will consume the file created from the --state get command
 
 $ python3 capacity_state_prod.py --state set --file us_capacity_state.csv
 ```
