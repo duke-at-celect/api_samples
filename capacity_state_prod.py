@@ -6,8 +6,8 @@ import argparse
 import time
 
 
-get_url = 'https://fulfillment-api-dev.celectengine.com/api/v2/stores'
-patch_url = 'https://fulfillment-api-dev.celectengine.com/api/v2/stores/'
+get_url = 'https://fulfillment-api.celectengine.com/api/v2/stores'
+patch_url = 'https://fulfillment-api.celectengine.com/api/v2/stores/'
 client_id = '<YOUR_CLIENT_ID>'
 api_key = '<YOUR_API_KEY>'
 
